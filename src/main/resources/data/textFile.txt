@@ -1,0 +1,5 @@
+100  Thomas              Sales               5000      980911
+200  Jason               Technology          5500      971212
+300  Mayla               Technology          7000      990910
+400  Nisha               Marketing           9500      960721
+500  Randy               Technology          6000      980304
